@@ -45,6 +45,10 @@ An in-depth explanation of the time-series function, illustrating how time-serie
 
 A Jupyter Notebook containing the source code for the entire workflow, from data preparation to model evaluation.
 
+### LSTM.docx
+
+A comprehensive document explaining how time-series works in depth, with specific reference to the `series_to_supervised` function created in this project.
+
 ## Getting Started
 
 To get started, clone this repository and follow the instructions provided in `Model.ipynb`. This notebook will guide you through each step of the process, from data preparation to model evaluation.
